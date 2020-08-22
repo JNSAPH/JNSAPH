@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png">
+  <a href="https://JNSAPH.com"><img src="banner.png"></a>
 </p>
 
 - 🔭 I’m currently working at EB
@@ -8,12 +8,7 @@
 - 📫 How to reach me: 
 
 <p align="center">
-  <a href="https://twitter.com/JNSAPH"><img src="twitter.svg"></a>
-  <a href="https://twitter.com/JNSAPH"><img src="youtube.svg"></a>
-  <a href="https://twitter.com/JNSAPH"><img src="mail.svg"></a>
-  <a href="https://twitter.com/JNSAPH"><img src="archive.svg"></a>
-  <a href="https://twitter.com/JNSAPH"><img src="message-circle.svg"></a>
+  <a href="https://twitter.com/JNSAPH"><img src="twitter.svg" width="40px"></a>
+  <a href="discord://channels/@me/188014835181551617"><img src="message-circle.svg" width="40px"></a>
+  <a href="https://aph.world"><img src="archive.svg" width="40px"></a>
 </p>
-
-
-**» https://JNSAPH.com**
