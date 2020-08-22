@@ -8,11 +8,10 @@ I'm a self-taught Full stack web developer and UI / UX designer. Currently I'm 1
 * Flutter (Dart)
 * Python
 
-<!--
-### 🔥 Featured Content
-* [**Hue-Controller** by @JNSAPH](https://github.com/JNSAPH/Hue-Controller) - Controll Zigbee Lights connected to your Philips Hue Bridge from your Computer
-* [**SkinDB.net** by @SpraxDev](https://github.com/SkinDB/SkinDB.net) - A huge Minecraft skin database that makes it possible to search for the skin of your choice.
-* [**Zoe** by @NudelErde](https://github.com/NudelErde/zoe) - A video game engine written completely from the ground up in C / C ++
--->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNSAPH" />
+</a>
+
 
 **» https://JNSAPH.com**
