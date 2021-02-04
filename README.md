@@ -3,8 +3,8 @@
 </p>
 
 - 🔭 I’m currently working at EB
-- 🌱 I’m currently learning Angular, Typescript & C++
-- 💪 My Skills include: JavaScript, Node, HTML, EJS, PHP, Python, ...
+- 🌱 I’m currently learning Ionic
+- 💪 My Skills include: NodeJS (TS / JS), Angular, C / C++, Python, ...
 
 
 <p align="center">
