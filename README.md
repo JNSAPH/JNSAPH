@@ -8,5 +8,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JNSAPH&show_icons=true&theme=vue-dark&bg_color=191922&title_color=44ffd2&icon_color=44ffd2&text_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=JNSAPH&show_icons=true&theme=vue-dark&bg_color=0e0e14&title_color=FFFFFF&icon_color=3000FF&text_color=ffffff">
 </p>
